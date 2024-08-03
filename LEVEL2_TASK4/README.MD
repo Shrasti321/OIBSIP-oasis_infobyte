@@ -6,4 +6,9 @@ WEBSITE: https://loginauthentication-oibsip.netlify.app/
 
 IMAGES:
 
+![Screenshot 2024-08-03 194749](https://github.com/user-attachments/assets/da3a30f3-674a-46a7-b810-32cde0e1c4ac)
+
+
+![Screenshot 2024-08-03 194705](https://github.com/user-attachments/assets/d96cfeb1-abac-4ac7-b2c9-ea6b74e88eab)
+
 
